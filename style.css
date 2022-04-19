@@ -1,0 +1,21 @@
+
+#wrapper{
+    text-align: center;
+    color: firebrick;
+    margin: auto;
+}
+
+#thead{
+    color: chartreuse;
+}
+body{
+    background-image: url(../../EXERCISES/html_Ex2/image.jpg/hoc-the-duc-chat-nhu-nuoc-cat-o-dai-hoc-cong-nghe-dong-adocx-1576767425726.webp);
+    background-size: cover;
+    background-attachment: fixed;
+    width: 600px;
+    margin: 0 auto;
+}
+.thead a{
+    color:greenyellow;
+    background:blue;
+}
